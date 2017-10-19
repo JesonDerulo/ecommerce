@@ -1,0 +1,9 @@
+src/ecommerce/aws/
+src/ecommerce/easy_aws.py
+
+bin/
+include/
+lib/
+
+
+
